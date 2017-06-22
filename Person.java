@@ -1,7 +1,7 @@
 public class Person  {
 	private int age;
 	private String name;
-
+	private double salary;
 	public Person() {
 		this.age = 18;
 		this.name = "";
